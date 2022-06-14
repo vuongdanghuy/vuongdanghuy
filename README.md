@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Vuong Dang Huy
-- 👀 I’m interested in Data Science, Digital Signal/Image Processing, Data Structure and Algorithm
-- 🌱 I’m currently learning Model Deployment using Torchserve and TFServing, DSA 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning, Digital Signal/Image Processing, Data Structure and Algorithm
+- 🌱 I’m into Computer Vision, Routing Problem
+- 🎓 I'm fine with MATLAB, Python and currently learning C/C++
+- 💞️ I'm huge fan of ✨ Pokemon ✨ and ✨ The Legend of Zelda ✨
+- 💖 I love anime, manga and light novel, in other word, a true wibu 🤗
 - 📫 How to reach me: vuongdanghuy@gmail.com, danghuy1275@gmail.com
 
 <!---
